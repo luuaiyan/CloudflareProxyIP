@@ -1,0 +1,2 @@
+# CloudflareProxyIP
+Cloudflare反代IP，用于解决Cloudflare代理后无法访问CF托管站点的回环问题。
