@@ -2,7 +2,7 @@
 Cloudflare反代IP，用于解决Cloudflare代理后无法访问CF托管站点的回环问题。
 
 ## 测试环境
-基于SIN服务器，各个地区的测试结果均为SIN服务器的相应时间，参考自身网络进行选择。
+测试服务器参考表格中`Check_Server`栏，响应时间仅供参考，建议选择代理服务器相同国家即可。
 
 ## 更新时间
 目前可用IP足够多，暂无更新计划。
@@ -15,7 +15,7 @@ Cloudflare reverse proxy IPs, used to resolve the loopback issue that occurs whe
 
 ## Test Environment
 
-Based on the SIN (Singapore) server. Test results for each region correspond to the SIN server’s local time. Please choose according to your own network conditions.
+Refer to the `Check_Server` column in the table for test servers. The response time is for reference only — it’s recommended to select a proxy server located in the same country.
 
 ## Update Time
 
